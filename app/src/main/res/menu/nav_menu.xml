@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/gallery"
+        android:icon="@drawable/black"
+        android:title="Rover"/>
+
+    <item
+        android:id="@+id/weather"
+        android:icon="@drawable/rainny"
+        android:title="Weather"/>
+</menu>
